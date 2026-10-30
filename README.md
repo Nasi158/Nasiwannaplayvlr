@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<head><title>HẢI MY</title</head> <body>
+<head><title>HMY</title</head> <body>
 <h1>Nhật kí 12A1</h1>
 <p>đây là nơi chứa nhiều kỉ niệm của lớp 12a1</p>
 <p>năm học 2026-2027</p>
