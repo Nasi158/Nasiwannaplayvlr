@@ -1,2 +1,8 @@
-# Nasiwannaplayvlr
-em chào thầyyyy
+<!DOCTYPE HTML>
+<head><title>HẢI MY</title</head> <body>
+<h1>Nhật kí 12A1</h1>
+<p>đây là nơi chứa nhiều kỉ niệm của lớp 12a1</p>
+<p>năm học 2026-2027</p>
+<p style="color: blue"> <i>Tôi rất vui là 1 TV của lớp</i> </p>
+</body>
+</html>
